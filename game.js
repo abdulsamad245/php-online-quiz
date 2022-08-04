@@ -74,7 +74,7 @@ getNewQuestion=()=>{
   
     localStorage.setItem("mostRecentScore",score);
     if (availableQuestion.length===0 || questioncounter>= MAX_QUESTIONS){
-        return window.location.assign("end.html");};
+        return window.location.assign("end.php");};
     
 
     questioncounter++;

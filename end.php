@@ -23,8 +23,8 @@
                 save
             </button>
             </form>
-            <a href="game.html" target="blanc"  class="btn">Play Again</a>
-            <a href="index.html" class="btn">Go Home</a>
+            <a href="game.php" target="blanc"  class="btn">Play Again</a>
+            <a href="index.php" class="btn">Go Home</a>
             
         </div>
     </div>

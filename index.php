@@ -11,8 +11,8 @@
     <div class="container">
         <div id="home" class="flex-center flex-column">
         <h1>Quick Quiz</h1>
-        <a  class="btn" href="game.html">Play</a>
-        <a  class="btn" href="highscores.html">High Scores</a>
+        <a  class="btn" href="game.php">Play</a>
+        <a  class="btn" href="highscores.php">High Scores</a>
         
     </div>
    

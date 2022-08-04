@@ -12,7 +12,7 @@
         <div id="highScores" class="flex-center flex-column">
             <h1 id="finalScore">High Scores</h1>
             <ul id="highscoresList"><li>fghjk</li></ul>
-            <a href="index.html" class="btn"> Go Home</a>
+            <a href="index.php" class="btn"> Go Home</a>
         </div >
     </div>
     <script src="highscores.js"></script>

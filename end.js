@@ -37,7 +37,7 @@ saveHighScore=(e)=>{
         HighScore.sort((a,b)=> b.score-a.score)
         HighScore.splice(5);
         localStorage.setItem("HighScores",JSON.stringify(HighScore));
-        window.location.assign("highscores.html")
+        window.location.assign("highscores.php")
 
         console.log(HighScore);
     }else{
@@ -55,7 +55,7 @@ saveHighScore=(e)=>{
         HighScore.sort((a,b)=> b.score-a.score)
         HighScore.splice(5);
         localStorage.setItem("HighScores",JSON.stringify(HighScore));
-        window.location.assign("highscores.html")
+        window.location.assign("highscores.php")
     }
 
 
